@@ -2,7 +2,7 @@
 - 🧩 I’m interested in coding, reading books, writing, and learning new experiences
 - 🌱 I’m currently learning Java, Web development
 - 📝 I write articles on https://medium.com/@prakritiiacharya
-- 📧 Reach me at acharyaprakriti@gmail.com
+- 📧 Reach me at acharyaprakriti001@gmail.com
    
   
 
